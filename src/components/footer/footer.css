@@ -1,0 +1,93 @@
+.footer {
+    display: flex;
+}
+
+
+.footer .yellow-text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140%;
+    color: #BA9E5E;
+    margin-bottom: 30px;
+}
+
+
+.footer .newsletter {
+    margin-left: 300px;
+    margin-right: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+.footer .contacts {
+    margin-right: 153px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+.footer .our-sites {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+.footer .small-gray-text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 100%;
+    letter-spacing: 0.03em;
+    margin-bottom: 60px;
+
+    color: #808080;
+}
+
+
+.footer .contacts .small-gray-text {margin-top: 90px;}
+
+
+.footer .e-mail {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 140%;
+    color: #808080;
+}
+
+
+.footer .contacts-our-sites-text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 140%;
+    color: #111111;
+}
+
+
+.footer .long-stick {
+    border-bottom: #404040 1px solid;
+    height: 1px;
+    width: 100%;
+}
+
+
+.footer .short-stick {
+    border-bottom: 1px solid #808080;
+    width: 50px;
+    margin-left: 114px;
+}
+
+
+.footer .e-mail-stick {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 15px;
+}
+
+

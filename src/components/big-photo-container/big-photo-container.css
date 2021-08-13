@@ -1,0 +1,11 @@
+.big-photo-container .container {
+    display: flex;
+    justify-content: center;
+    margin-top: 169px;
+    margin-bottom: 210px;
+}
+
+
+.big-photo-container .big-photo {
+    width: 1200px;
+}

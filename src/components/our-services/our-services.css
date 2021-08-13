@@ -1,0 +1,52 @@
+.our-services .red-head {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 140%;
+    color: #E72234;
+}
+
+.our-services {
+    display: flex;
+    justify-content: center;
+}
+
+
+.our-services .container .right {
+    margin-top: 100px;
+    margin-bottom: 208px;
+}
+
+
+.our-services .container {
+    margin-top: 210px;
+    width: 1400px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.our-services .vertical-line {
+    border-left: 2px solid #808080;
+    height: 90px;
+    margin-left: 49px;
+    margin-bottom: 30px;
+}
+
+.our-services .circle {
+    border: 1px solid #BA9E5E;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #111111;
+    font-size: 12px;
+}
+
+.our-services .circle-and-line {
+    display: block;
+    justify-content: center;
+    padding-top: 60px;
+    width: 100px;
+}

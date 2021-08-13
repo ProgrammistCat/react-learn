@@ -1,0 +1,82 @@
+.our-team-container .our-team-text .container .right {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140%;
+    margin-top: 18px;
+    padding-right: 155px;
+    color: #111111;
+}
+
+
+.our-team-container .our-team-text .container {
+    margin-bottom: 90px;
+    width: 1400px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.our-team-container .description {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 140%;
+    color: #111111;
+    margin-top: 30px;
+}
+
+
+.our-team-container .photo-and-description {
+    margin: 0 30px;
+}
+
+
+.our-team-container .photos-humans {
+    display: flex;
+    justify-content: center;
+}
+
+
+.our-team-container .red-head {
+    margin-left: 125px;
+}
+
+
+.our-team-container .red-head {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 140%;
+    color: #E72234;
+    margin-left: 125px;
+}
+
+
+.our-team-container .vertical-line {
+    border-left: 2px solid #808080;
+    height: 90px;
+    margin-left: 49px;
+    margin-bottom: 30px;
+}
+
+
+.our-team-container .circle {
+    border: 1px solid #BA9E5E;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #111111;
+    font-size: 12px;
+}
+
+
+.our-team-container .circle-and-line {
+    display: block;
+    justify-content: center;
+    padding-top: 60px;
+    width: 100px;
+}

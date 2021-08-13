@@ -1,0 +1,52 @@
+.card .stick {
+    border-bottom: #DADADA 1px solid;
+    height: 1px;
+    width: 100%;
+    margin: 60px 0;
+}
+
+.card .photo-and-text {
+    display: flex;
+}
+
+
+.card .photo-and-text col {
+    display: flex;
+}
+
+
+.card .col-content {
+    margin-left: 60px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+.card .col-content .text {text-decoration: underline;}
+
+
+.card .subheading {
+    margin-bottom: 30px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 140%;
+    color: #000000;
+}
+
+
+.card .text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140%;
+}
+
+.card .content {
+    width: 240px;
+}
+
+

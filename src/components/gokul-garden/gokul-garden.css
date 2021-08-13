@@ -1,0 +1,64 @@
+.gokul-garden {
+    display: flex;
+    justify-content: center;
+}
+
+
+.gokul-garden .container {
+    width: 1400px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.gokul-garden .circle-and-line {
+    margin-left: 37px;
+    display: block;
+    justify-content: center;
+    padding-top: 60px;
+    width: 100px;
+}
+
+
+.gokul-garden .red-head {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 140%;
+    color: #E72234;
+}
+
+.gokul-garden .vertical-line {
+    border-left: 2px solid #808080;
+    height: 90px;
+    margin-left: 49px;
+    margin-bottom: 30px;
+}
+
+.gokul-garden .circle {
+    border: 1px solid #BA9E5E;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #111111;
+    font-size: 12px;
+}
+
+
+.gokul-garden .red-head {
+    margin-left: 125px;
+}
+
+
+.gokul-garden .right-content {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 140%;
+    margin-top: 168px;
+    padding-right: 169px;
+    color: #111111;
+}
